@@ -1,0 +1,15 @@
+<!-- favicon.svg (chữ J cân giữa hình tròn) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Nền tròn -->
+  <circle cx="256" cy="256" r="240" fill="#111111"/>
+  <!-- Chữ J cân chỉnh giữa -->
+  <path d="M290 120
+           v190
+           a90 90 0 0 1-90 90
+           h-25"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="60"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg>
